@@ -3,8 +3,6 @@
 <a href="https://vatsalsakariya.vercel.app/">Website</a> &bull; <a href="https://twitter.com/vatsal0601">Twitter</a> &bull; <a href="mailto:vsakariya8@gmail.com">Mail</a>
 </p>
 
----
-
 I'm a frontend developer currently living in Gujarat, India. Right now I am an undergraduate studying at Nirma University for my bachelor degree in Computer Science and Engineering.
 
 -   🌱 I’m currently learning **NextJS**
